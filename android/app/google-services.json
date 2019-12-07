@@ -1,40 +1,40 @@
 {
-  "project_info": {
-    "project_number": "15124533741",
-    "firebase_url": "https://brew-c.firebaseio.com",
-    "project_id": "brew-c",
-    "storage_bucket": "brew-c.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:15124533741:android:6d4cdfa7a2a2997dccd7e4",
-        "android_client_info": {
-          "package_name": "com.omkar.brew"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "15124533741-mp2d65biftlrbq364uenurt7ot73vit3.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDxOGXMwJyhAE0K4PdExj0xiKa9AaemMu4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "15124533741-mp2d65biftlrbq364uenurt7ot73vit3.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+	"project_info": {
+		"project_number": "15124533741",
+		"firebase_url": "https://brew-c.firebaseio.com",
+		"project_id": "brew-c",
+		"storage_bucket": "brew-c.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:15124533741:android:6d4cdfa7a2a2997dccd7e4",
+				"android_client_info": {
+					"package_name": "com.omkar.brew"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "15124533741-mp2d65biftlrbq364uenurt7ot73vit3.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyDxOGXMwJyhAE0K4PdExj0xiKa9AaemMu4"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "15124533741-mp2d65biftlrbq364uenurt7ot73vit3.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
 }
